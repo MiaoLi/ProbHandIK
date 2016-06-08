@@ -1,0 +1,10 @@
+<KinBody name="bunny">
+  <modelsdir>.</modelsdir>     <!--for relative path -->
+  <Body type="dynamic">
+    <Geom type="trimesh">
+      <Data>Objects/bunny_part1.obj</Data>
+      <Render>Objects/bunny_part1.obj</Render>
+      <transparency>0.1</transparency>
+    </Geom>      
+  </Body>
+</KinBody>
