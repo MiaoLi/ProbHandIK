@@ -13,3 +13,4 @@ we use Allegro hand as an example and we also have the code for Barrett hand in 
 3. Run `AllegrohandIKSolve.m` in matlabcode folder to solve the IK for the optimal grasps you found in the package GPIS.
 
 
+In package `soft_grasping`, we have a python version for the trainning of the IK. 
